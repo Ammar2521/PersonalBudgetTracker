@@ -14,6 +14,7 @@ Ett enkelt konsolprogram för att hålla koll på inkomster och utgifter. Bygger
 
 
  # Klassdiagram 
+ ```
  
 ┌────────────────────────────────────────┐
 │              Transaction               │
@@ -46,7 +47,7 @@ Ett enkelt konsolprogram för att hålla koll på inkomster och utgifter. Bygger
 │ + DeleteTransaction(index : int) : bool │
 │ + ShowByCategory(cat : string) : void   │
 └────────────────────────────────────────┘
-
+```
 
 
 
