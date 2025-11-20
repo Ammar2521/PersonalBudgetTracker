@@ -1,0 +1,8 @@
+1) Hur hjälpte klasser och metoder dig att organisera programmet?
+Svar: Genom att dela upp programmet i Transaction och BudgetManager kunde jag separera data (transaktionsobjekt) från logik (hantering av listan).
+Det gjorde koden enklare att läsa, testa och återanvända. Metoder som AddTransaction och CalculateBalance gör att Main() hålls kort och tydlig.
+
+2) Vilken del av projektet var mest utmanande?
+Svar: Det svåraste var att tänka på validering och att strukturera Git-flödet (branches och PRs) var också nytt men lärorikt.
+
+
