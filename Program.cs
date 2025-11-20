@@ -82,8 +82,8 @@ namespace PersonalBudgetTracker
             Console.WriteLine("2)  Visa alla transaktioner");
             Console.WriteLine("3)  Visa total balans");
             Console.WriteLine("4)  Ta bort transaktion");
-            Console.WriteLine("5)  Visa transaktioner per kategori (bonus)");
-            Console.WriteLine("6)  Statistik (bonus)");
+            Console.WriteLine("5)  Visa transaktioner per kategori");
+            Console.WriteLine("6)  Statistik");
             Console.WriteLine("7)  Avsluta programmet");
         }
 
